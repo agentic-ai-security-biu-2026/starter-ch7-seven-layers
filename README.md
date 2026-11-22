@@ -17,4 +17,4 @@ Deep multi-layer agent hardening. Diff 5. Priority P1.
 
 ## License
 
-Apache-2.0 (unless noted).
+Apache-2.0 — see `LICENSE`.
