@@ -1,4 +1,4 @@
-# Submit — Ch4
+# Submit — Ch5
 
 - [ ] ≥5 independent layers with probe evidence  
 - [ ] `SCENARIO.md` + `TRACE.md` or `REDTEAM.md`  

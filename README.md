@@ -1,4 +1,4 @@
-# Ch4 — Seven Layers Deep
+# Ch5 — Seven Layers Deep
 
 **Difficulty:** 5 (hardest) · **Mode:** Build + red-team · **Theme:** Defense-in-depth for an insecure agent  
 

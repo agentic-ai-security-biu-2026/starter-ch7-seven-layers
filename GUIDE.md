@@ -1,4 +1,4 @@
-# Student guide — Ch4 Seven Layers Deep
+# Student guide — Ch5 Seven Layers Deep
 
 **Difficulty:** 5 · **Kickoff:** 13 Dec 2026 · **Deadline:** 22 Dec 2026, 23:59 · Tag: `submission-v1`
 
@@ -41,8 +41,8 @@ Suggested layer set (adapt names, keep independence):
 ## 4. Setup & install
 
 ```bash
-git clone https://github.com/agentic-ai-security-biu-2026/starter-ch4-seven-layers.git
-cd starter-ch4-seven-layers
+git clone https://github.com/agentic-ai-security-biu-2026/starter-ch5-seven-layers.git
+cd starter-ch5-seven-layers
 cp .env.example .env
 podman compose up --build
 # Optional Garak-style / custom probes when shipped:
@@ -56,7 +56,7 @@ Prefer **local Podman**. OpenShift only for closing demos with locked SCC.
 - Defense in depth / Swiss cheese model  
 - Sandbox escape awareness (learn locally — never on shared demo)  
 - Garak / LLM red-teaming tools (optional)  
-- Reuse ideas from Ch1 (identity) and Ch2 (output/data) as *layers*, not copies of those whole tracks
+- Reuse ideas from Ch2 (identity) and Ch3 (output/data) as *layers*, not copies of those whole tracks
 
 ## 6. Support
 
